@@ -4,7 +4,7 @@
 
 *<sup>1</sup>The University of Hong Kong, <sup>2</sup>Huawei Noah’s Ark Lab, <sup>3</sup>CUHK, <sup>4</sup>Tsinghua University, <sup>5</sup>Shanghai Jiao Tong University, <sup>6</sup>Infinigence AI*
 
-<a href='https://arxiv.org/abs/2410.01699'><img src='https://img.shields.io/badge/SJD-Arxiv-red'></a><a href=''><img src='https://img.shields.io/badge/ICLR 2025-ICLR 2025'></a>
+<a href='https://arxiv.org/abs/2410.01699'><img src='https://img.shields.io/badge/SJD-Arxiv-red'></a>  <a href=''><img src='https://img.shields.io/badge/ICLR 2025-ICLR 2025'></a>
 
 ## 🚩 New Features/Updates
 
@@ -34,7 +34,7 @@ conda env create -f environment.yaml
 - Results on [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) 
   <img src="assets/real-teaser.jpg" alt="drawing" width="600"/>
 
-## Try <font color=#0000F0>SJD</font> with 
+## Text-to-Image with <font color=#0000F0>SJD</font>
 
 #### Lumina-mGPT
 
