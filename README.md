@@ -33,13 +33,13 @@ conda env create -f environment.yaml
 
 ## Performance
 
-- Results on [Emu3](https://github.com/baaivision/Emu3) 
-
-  <img src="assets/emu3-quali.jpg" alt="drawing" width="600"/>
-
 - Results on [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) 
 
   <img src="assets/real-teaser.jpg" alt="drawing" width="600"/>
+
+- Results on [Emu3](https://github.com/baaivision/Emu3) 
+
+  <img src="assets/emu3-quali.jpg" alt="drawing" width="600"/>
 
 ## Text-to-Image with <font color=#0000F0>SJD</font>
 
