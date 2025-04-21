@@ -8,8 +8,13 @@
 
 ## 🚩 New Features/Updates
 
+- ✅ Apr, 2025. 💥 **<font color=#0000F0>SJD</font>** has been integrated into [Lumina-mGPT2](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0) and [SimpleAR](https://github.com/akbartus/Simple-AR).
 - ✅ Jan, 2025. 💥 **<font color=#0000F0>SJD</font>** is accepted to ICLR 2025.
 - ✅ Oct, 2024. Release **<font color=#0000F0>SJD</font>**'s code.
+
+## 🚩 TODO List
+
+- □ Integrating SJD into vLLM framework.
 
 ## Installing the dependencies
 
@@ -29,9 +34,11 @@ conda env create -f environment.yaml
 ## Performance
 
 - Results on [Emu3](https://github.com/baaivision/Emu3) 
+
   <img src="assets/emu3-quali.jpg" alt="drawing" width="600"/>
 
 - Results on [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) 
+
   <img src="assets/real-teaser.jpg" alt="drawing" width="600"/>
 
 ## Text-to-Image with <font color=#0000F0>SJD</font>
@@ -56,7 +63,7 @@ CUDA_VISIBLE_DEVICES=0 python test_llamagen.py
 
 ## Acknowledge
 
-Our code is based on [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT), [Emu3](https://github.com/Alpha-VLLM/Lumina-mGPT), [LlamaGen](https://github.com/FoundationVision/LlamaGen), and [Anole](https://github.com/GAIR-NLP/anole). We would like to express our gratitude to [Tianwei Xiong](https://github.com/SilentView) for his assistance.
+Our code is based on [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT), [Emu3](https://github.com/Alpha-VLLM/Lumina-mGPT), [LlamaGen](https://github.com/FoundationVision/LlamaGen), [Anole](https://github.com/GAIR-NLP/anole), and [CLLM](https://github.com/hao-ai-lab/Consistency_LLM). We would like to express our gratitude to [Tianwei Xiong](https://github.com/SilentView) for his assistance.
 
 ## Citation
 
