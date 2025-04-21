@@ -8,7 +8,7 @@
 
 ## 🚩 New Features/Updates
 
-- ✅ Apr, 2025. 💥 **<font color=#0000F0>SJD</font>** has been integrated into [Lumina-mGPT2](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0) and [SimpleAR](https://github.com/akbartus/Simple-AR).
+- ✅ Apr, 2025. 💥 **<font color=#0000F0>SJD</font>** has been integrated into [Lumina-mGPT2](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0) and [SimpleAR](https://github.com/wdrink/SimpleAR).
 - ✅ Jan, 2025. 💥 **<font color=#0000F0>SJD</font>** is accepted to ICLR 2025.
 - ✅ Oct, 2024. Release **<font color=#0000F0>SJD</font>**'s code.
 
