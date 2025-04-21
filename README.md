@@ -14,7 +14,7 @@
 
 ## 🚩 TODO List
 
-- □ Integrating SJD into vLLM framework.
+- □ Integrating SJD into vLLM framework for further acceleration.
 
 ## Installing the dependencies
 
